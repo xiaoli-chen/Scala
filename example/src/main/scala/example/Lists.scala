@@ -29,7 +29,7 @@ object Lists{
       else loop(acc + xs(n - 1), n - 1)
     }
       loop(0,xs.length)
-    val tmp = List(1,2,3)
+
   }
 
 
@@ -48,5 +48,12 @@ object Lists{
    * @return The largest element in `xs`
    * @throws java.util.NoSuchElementException if `xs` is an empty list
    */
-  def max(xs: List[Int]): Int = ???
+  def max(xs: List[Int]): Int = {
+    def loop(M: Int, n: Int): Int={
+      if(n==0) M
+      else  loop((if(M>xs(n-1)) M; else xs(n-1)),n-1)
+    }
+    if(xs.isEmpty) {println("This is an empty list"); 0}
+    else loop(xs.last,xs.length-1)
+  }
 }
