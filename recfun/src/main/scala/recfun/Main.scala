@@ -56,6 +56,7 @@ object Main {
   /**
    * Exercise 3 My method is much better than the standard recursive method
    */
+   // countChange: using the most simplist recursive method 
   def countChange(money: Int, coins: List[Int]): Int ={
     val sortcoins = coins.sorted
     val sortC= sortcoins.reverse
