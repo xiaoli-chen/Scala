@@ -29,6 +29,9 @@ object Main {
 
   /**
    * Exercise 2
+   * Write a recursive function which verifies the balancing of parentheses in a string, 
+   * which we represent as a List[Char] not a String. 
+   * 
    */
   def balance(chars: List[Char]): Boolean = {
     def loop(n: Int, L: List[Char]): AnyVal = {
@@ -54,8 +57,14 @@ object Main {
   }
 
   /**
-   * Exercise 3 My method is much better than the standard recursive method
+   * Exercise 3 
+   * Write a recursive function that counts how many different ways you can make change for an amount, 
+   * given a list of coin denominations. For example, there are 3 ways to give change for 4 if you have
+   * coins with denomiation 1 and 2: 1+1+1+1, 1+1+2, 2+2.
+   * 
+   * My method is much better than the standard recursive method
    */
+   // countChange: using the most simplist recursive method 
   def countChange(money: Int, coins: List[Int]): Int ={
     val sortcoins = coins.sorted
     val sortC= sortcoins.reverse
@@ -71,7 +80,7 @@ object Main {
               1
             }
           else {
-              loop(money - sortL.head, sortL) + loop(money, sortL.tail)
+              loop(money - sortL.head, sortL) + loop(money, sortL.tail) // this line is the key
           }
 
         }
