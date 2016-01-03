@@ -1,0 +1,99 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> /Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Nat.class
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> /Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Succ.class
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> /Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Zero$.class
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> /Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Zero.class
+binary dependencies:
+2 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> /Users/xiaolichen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Nat
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Succ
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Zero
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Zero$
+used names:
+15 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> +
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> -
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> <init>
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> AnyRef
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Boolean
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Error
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Nat
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Succ
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> Zero
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> isZero
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> n
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> package
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> predecessor
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> scala
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> that
+product stamps:
+4 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Nat.class -> lastModified(1451534443000)
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Succ.class -> lastModified(1451534443000)
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Zero$.class -> lastModified(1451534443000)
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/target/scala-2.11/classes/Zero.class -> lastModified(1451534443000)
+source stamps:
+1 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> hash(6f355162b4c625c0f826927023b9834f25783c46)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1406304240000)
+/Users/xiaolichen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/xiaolichen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Boolean
+internal apis:
+1 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA7ybm4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJZh0HN0AAZub3RpZnlzcQB+AAyD5/fddAADTmF0c3EAfgAM+OzTmnQABFN1Y2NzcQB+AAwhwQuVdAAEd2FpdHNxAH4ADFF0GK90AA0kYXNJbnN0YW5jZU9mc3EAfgAMgS6G4XQABmVxdWFsc3NxAH4ADGPqoR50AAZpc1plcm9zcQB+AAxRdE7JdAAJc3VjY2Vzc29yc3EAfgAMCpDQ+3QABFplcm9zcQB+AAw2/qnDdAAMYXNJbnN0YW5jZU9mc3EAfgAMQsgWyHQADHN5bmNocm9uaXplZHNxAH4ADNUzKt90AA0kaXNJbnN0YW5jZU9mc3EAfgAMlrGr7XQACW5vdGlmeUFsbHNxAH4ADPMrkJ90AAEtc3EAfgAMK5A/5nQADGlzSW5zdGFuY2VPZnNxAH4ADDxLert0AAY8aW5pdD5zcQB+AAz62e5edAACPT1zcQB+AAy4h4jfdAAFY2xvbmVzcQB+AAws74u7dAAIdG9TdHJpbmdzcQB+AAy5b6ezdAABK3NxAH4ADF88JzF0AAIhPXNxAH4ADHVI5Bt0AAhnZXRDbGFzc3NxAH4ADLFvSTl0AAJuZXNxAH4ADMh1TuR0AAJlcXNxAH4ADCVhktN0AAtwcmVkZWNlc3NvcnNxAH4ADHdfYN90AAIjI3NxAH4ADOWn6xB0AAhmaW5hbGl6ZXNxAH4ADONUdBZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAFxAH4AEXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZ3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZgBwc3EAfgBrc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4Ab3NxAH4AZgBwc3EAfgBrdXEAfgBKAAAAAHNxAH4AZgBwc3EAfgBrdXEAfgBKAAAAAHNxAH4AZgBwc3EAfgBrdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBudAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBuc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCLdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgB/dAADQW55c3EAfgCDc3EAfgCGdXEAfgCJAAAAAnNxAH4Ai3QABXNjYWxhcQB+AJJzcQB+AExxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+AB91cQB+AF4AAAAAfnEAfgBgdAAGTW9kdWxldXEAfgBkAAAAAHNxAH4AZgBwc3EAfgBrcQB+AHBzcQB+AGYAcHNxAH4Aa3NxAH4Ac3NxAH4AZgBwc3EAfgBrdXEAfgBKAAAAAHNxAH4AZgBwc3EAfgBrdXEAfgBKAAAAAHNxAH4AZgBwc3EAfgBrdXEAfgB9AAAAA3NxAH4Af3QAA05hdHNxAH4Ag3NxAH4AhnVxAH4AiQAAAAFxAH4AknNxAH4Af3EAfgCCc3EAfgCDc3EAfgCGdXEAfgCJAAAAA3NxAH4Ai3EAfgCOc3EAfgCLcQB+AJBxAH4AknNxAH4Af3EAfgCUc3EAfgCDc3EAfgCGdXEAfgCJAAAAAnNxAH4Ai3EAfgCZcQB+AJJzcQB+AExxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+ABN1cQB+AF4AAAAAcQB+AGJ1cQB+AGQAAAAAc3EAfgBmAHBzcQB+AGtxAH4AcHNxAH4AZgBwc3EAfgBrc3EAfgBzc3EAfgBmAHBzcQB+AGt1cQB+AEoAAAAAc3EAfgBmAHBzcQB+AGt1cQB+AEoAAAAAc3EAfgBmAHBzcQB+AGt1cQB+AH0AAAADc3EAfgB/dAADTmF0c3EAfgCDc3EAfgCGdXEAfgCJAAAAAXEAfgCSc3EAfgB/cQB+AIJzcQB+AINzcQB+AIZ1cQB+AIkAAAADc3EAfgCLcQB+AI5zcQB+AItxAH4AkHEAfgCSc3EAfgB/cQB+AJRzcQB+AINzcQB+AIZ1cQB+AIkAAAACc3EAfgCLcQB+AJlxAH4AknVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR9jHXdHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMveGlhb2xpY2hlbi9Eb2N1bWVudHMvQ29kaW5nL1NjYWxhL09iakV2ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFG81UWK0xiXA+CaScCO5g08leDxG
+external apis:
+0 items
+source infos:
+1 items
+/Users/xiaolichen/Documents/Coding/Scala/ObjEver/src/main/scala/week4.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUfYx13R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy94aWFvbGljaGVuL0RvY3VtZW50cy9Db2RpbmcvU2NhbGEvT2JqRXZlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
